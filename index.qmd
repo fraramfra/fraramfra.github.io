@@ -1,0 +1,7 @@
+---
+title: "fraramfra.github.io"
+---
+
+This is Paco's Quarto website. Go to the "About" page to learn more from him.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
