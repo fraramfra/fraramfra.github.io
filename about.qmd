@@ -88,7 +88,7 @@ Eager to leverage both my engineering background and emerging data science skill
 
 •	R: Data wrangling, ggplot, quantitative analysis
 
-•	Databases: Relational databases, MySQL, Mongo DB
+•	Databases: Relational databases, MySQL, MongoDB
 
 •	Data Visualization and Dashboards - Dash and Shiny
 

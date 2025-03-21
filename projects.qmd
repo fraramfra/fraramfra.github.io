@@ -1,9 +1,9 @@
 ---
 title: "Data Science Projects"
 ---
-## [Dasboard: Commuting Insights](https://github.com/UBC-MDS/DSCI-532_2025_28_commuting-insights)
+## [Dashboard: Commuting Insights](https://github.com/UBC-MDS/DSCI-532_2025_28_commuting-insights)
 
-"Commuting Insights" is a dahsboard developed in Dash in collaboration with Eugene You (@jinxyou), Derek Rodgers (@derekrodgers) and Han Wang (@hanwang205), as part of UBC's Master of Data Science program.
+"Commuting Insights" is a dashboard developed in Dash in collaboration with Eugene You (@jinxyou), Derek Rodgers (@derekrodgers) and Han Wang (@hanwang205), as part of UBC's Master of Data Science program.
 
 This project aimed to provide actionable insights to help shape Canada’s future transportation policies. The dashboard visualizes various aspects of commuting behavior across Canada, including transportation modes, average commute times, and regional dependencies on specific means of transport. The ultimate goal is to inform policies that can lead to better, more sustainable commuting solutions across the country.
 
@@ -15,9 +15,9 @@ You can visit the live dashboard [here](https://dsci-532-2025-28-commuting-insig
 
 ## [Python Package: py_atmosphere](https://github.com/UBC-MDS/py_atmosphere)
 
-"py_atmosphere" is a python package developed in collaboration with Zhengling Jiang (@ClaireJ2100) and Tianjiao Jiang (@tianjiao00), as part of UBC's Master of Data Science program.
+"py_atmosphere" is a Python package developed in collaboration with Zhengling Jiang (@ClaireJ2100) and Tianjiao Jiang (@tianjiao00), as part of UBC's Master of Data Science program.
 
-This package contains the simplified NASA's GRC Earth Atmospheric model and calculates atmospheric air properties for an altitude of interest, and supports Mach number calculation for a moving object in space at the same altitude. In the context of aircraft design, it is useful to have a Standard Atmosphere model of the variation of properties throughout the atmosphere, as they have a direct impact in aircraft operation throughout the flight envelope of an aircraft.
+This package contains the simplified NASA's GRC Earth Atmospheric model and calculates atmospheric air properties for an altitude of interest, and supports Mach number calculation for a moving object in space at the same altitude. In the context of aircraft design, it is useful to have a Standard Atmosphere model of the variation of properties throughout the atmosphere, as they have a direct impact on aircraft operation throughout the flight envelope of an aircraft.
 
 The package's documentation can be found in [pypi.org](https://pypi.org/project/py-atmosphere-mach/)
 
