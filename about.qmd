@@ -1,5 +1,117 @@
 ---
-title: "About"
+title: "Resume"
 ---
 
-About this site
+## PROFESSIONAL SUMMARY
+
+Born and raised in Mexico, with degrees from Mexico, Italy, United Kingdom, and Canada in diverse fields. Passionate about playing drums, listening to live music, outdoor activities and travelling.
+
+As a **Mechanical Engineer** with over **10 years of experience** in the aerospace industry, I have specialized in the development of advanced aircraft engine and gas turbine technologies, with a focus on **performance optimization and thermodynamic modeling**. Throughout my career, I have been committed to ensuring the highest standards of **efficiency and reliability** in complex engineering systems.
+
+I hold an **MSc in Mechanical Engineering from University College London**, graduating with honors, and I am currently pursuing a **Master's in Data Science at the University of British Columbia in Vancouver, BC**. Through my studies, I am developing expertise in **machine learning, regression analysis, and advanced statistics**.
+
+In addition to my technical expertise, I bring significant **people and project management experience**, having led cross-functional and international teams. I am passionate about building, coaching, and mentoring team members, ensuring not only the successful completion of projects but also the growth and development of individuals within the team. My leadership style is focused on fostering collaboration, innovation, and a high-performance culture.
+
+Eager to leverage both my engineering background and emerging data science skills, I am looking to utilize **data-driven approaches to solve complex challenges** in diverse fields, from aerospace to business and beyond. I’m excited about the opportunity to apply my experience in engineering leadership and my new capabilities to drive innovation, growth and efficiency.
+
+## WORK HISTORY
+
+### SENIOR ENGINEERING MANAGER | 09/2022 to 08/2024
+#### GE Aerospace - Mexico
+•	Spearheaded project administration and resource allocation for LM9000, LMS100, and LM6000 gas turbine products, resulting in optimized Performance, Transient Analysis, and Operability.
+
+•	Devised and implemented strategic technical plans for projects, effectively aligning customer needs and business goals in terms of budget, schedule, and CTQs.
+
+•	Cultivated a high-performance team of 10, overseeing talent acquisition, career development, and coaching initiatives.
+
+•	Coordinated a diverse engineering team across five countries (Mexico, United States, Poland, Turkey, India), fostering global collaboration and driving successful prototype testing project outcomes.
+
+### PERFORMANCE PROGRAM LEADER / ADVANCED LEAD ENGINEER | 03/2020 to 09/2022 
+#### GE Aviation - Mexico
+•	Successfully facilitated the market introduction of the LM9000 product with high-profile clients such as Petronas, Novatek, and Commonwealth.
+
+•	Created a proficient team capable of supporting the LM9000 platform in Performance, Transient Analysis, and Operability.
+
+•	Effectively transferred roles of six engineers from the USA to Mexico, while building and developing a dedicated support team in Mexico for the LM9000 platform.
+
+•	Conducted detailed technical audits and reviews prior to product field entry, ensuring optimal performance and adherence to quality standards.
+
+### PERFORMANCE ENGINEER / LEAD ENGINEER | 10/2015 to 03/2020 
+#### GE Aviation - Mexico
+•	Provided pivotal support and analysis to a four-month onsite prototype test for the LM9000 in Massa, Italy.
+
+•	Developed thermodynamic models in NPSS (C++ based) for the simulation of the new product, LM9000, enabling accurate performance prediction and aiding in product development.
+
+•	Conducted comprehensive customer interactions and data-driven performance diagnostics, improving problem-solving capacity, and fostering positive customer relationships.
+ 
+### PERFORMANCE ENGINEER | ENGINEER | 11/2011 to 01/2014 
+#### GE Aviation - Mexico
+•	Honored with the internal GE Aviation Engineering Recognition Award (ERD) for the development of statistical tools that significantly improved field support.
+
+•	Provided crucial support to test cells in over five countries for the CFM56 and GE90 engine lines.
+
+•	Conducted thorough performance diagnostics of engines based on thermodynamic and statistical analysis.
+
+## ACCOMPLISHMENTS
+
+•	Spearheaded the performance development of the LM9000 product line for five years.
+
+•	Successfully managed international engineering teams across five countries.
+
+•	Developed and led a proficient team of 10 people capable of supporting the LM9000 platform in Performance, Transient Analysis, and Operability, elevating overall product quality from design to production.
+
+•	Distinguished with the GE Aviation Engineering Recognition Award for the development of statistical tools that substantially improved field support of aircraft engines.
+
+•	Successfully transitioned roles of six engineers from the USA to Mexico while building and developing a dedicated support team in Mexico for the LM9000 platform.
+
+## EDUCATION
+
+### University of British Columbia | Master of Data Science | Vancouver, BC | Completion in June ‘25
+•	Relevant Courses in Supervised Learning, Regression, Causal Inference, Spatial and Temporal Modelling, Databases, Data Visualization.
+
+### University College London | Master of Science in Mechanical Engineering | UK
+•	Major: Applied Thermodynamics and Turbomachinery
+
+•	Awards: Distinction and Dean's List for Outstanding Academic Performance
+
+•	CONACYT Scholarship Recipient
+
+### ITESM | Bachelor of Science in Mechanical Engineering and Management | Mexico
+
+•	Certificate in Aeronautics awarded by Tecnologico de Monterrey and Politecnico di Torino
+
+•	Exchange program at Politecnico di Torino in Italy focused on Aerospace Engineering courses
+
+## SKILLS
+•	Collaborative Software Development - Github
+
+•	Supervised Machine Learning Modeling: Neural Networks, SVMs, KNN, Decision Trees, Random Forests, Feature Engineering
+
+•	Unsupervised Machine Learning Modeling: Clustering, Recommendation Systems, Topic Modeling 
+
+•	Frequentist and Bayesian regression analysis for statistical inference
+
+•	Python: Scikit Learn, NumPy, Pandas, Altair, Pytorch
+
+•	R: Data wrangling, ggplot, quantitative analysis
+
+•	Databases: Relational databases, MySQL, Mongo DB
+
+•	Data Visualization and Dashboards - Dash and Shiny
+
+•	Advanced Gas Turbine Performance Engineering 
+
+•	Thermodynamic Modelling in NPSS 
+
+•	Engine Development Testing 
+
+•	Project Management (PMI Training)
+
+•	Strategy Definition and Execution of Technical Deliverables 
+
+•	Cross-Cultural Team Leadership and Development
+
+•	Risk Management and Resource Allocation
+
+•	Advanced Customer Relationship Management and Support
+
