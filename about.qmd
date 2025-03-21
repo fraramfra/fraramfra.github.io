@@ -16,7 +16,8 @@ Eager to leverage both my engineering background and emerging data science skill
 
 ## WORK HISTORY
 
-### SENIOR ENGINEERING MANAGER | 09/2022 to 08/2024
+### SENIOR PERFORMANCE ENGINEERING MANAGER
+#### 09/2022 to 08/2024
 #### GE Aerospace - Mexico
 •	Spearheaded project administration and resource allocation for LM9000, LMS100, and LM6000 gas turbine products, resulting in optimized Performance, Transient Analysis, and Operability.
 
@@ -26,7 +27,8 @@ Eager to leverage both my engineering background and emerging data science skill
 
 •	Coordinated a diverse engineering team across five countries (Mexico, United States, Poland, Turkey, India), fostering global collaboration and driving successful prototype testing project outcomes.
 
-### PERFORMANCE PROGRAM LEADER / ADVANCED LEAD ENGINEER | 03/2020 to 09/2022 
+### PERFORMANCE PROGRAM LEADER
+#### 03/2020 to 09/2022 
 #### GE Aviation - Mexico
 •	Successfully facilitated the market introduction of the LM9000 product with high-profile clients such as Petronas, Novatek, and Commonwealth.
 
@@ -36,7 +38,8 @@ Eager to leverage both my engineering background and emerging data science skill
 
 •	Conducted detailed technical audits and reviews prior to product field entry, ensuring optimal performance and adherence to quality standards.
 
-### PERFORMANCE ENGINEER / LEAD ENGINEER | 10/2015 to 03/2020 
+### LEAD PERFORMANCE ENGINEER
+#### 10/2015 to 03/2020 
 #### GE Aviation - Mexico
 •	Provided pivotal support and analysis to a four-month onsite prototype test for the LM9000 in Massa, Italy.
 
@@ -44,7 +47,8 @@ Eager to leverage both my engineering background and emerging data science skill
 
 •	Conducted comprehensive customer interactions and data-driven performance diagnostics, improving problem-solving capacity, and fostering positive customer relationships.
  
-### PERFORMANCE ENGINEER | ENGINEER | 11/2011 to 01/2014 
+### PERFORMANCE ENGINEER 
+#### 11/2011 to 01/2014 
 #### GE Aviation - Mexico
 •	Honored with the internal GE Aviation Engineering Recognition Award (ERD) for the development of statistical tools that significantly improved field support.
 
@@ -66,23 +70,27 @@ Eager to leverage both my engineering background and emerging data science skill
 
 ## EDUCATION
 
-### University of British Columbia | Master of Data Science | Vancouver, BC | Completion in June ‘25
+### University of British Columbia | Master of Data Science
+#### Vancouver, BC | Completion in June ‘25
 •	Relevant Courses in Supervised Learning, Regression, Causal Inference, Spatial and Temporal Modelling, Databases, Data Visualization.
 
-### University College London | Master of Science in Mechanical Engineering | UK
+### University College London | Master of Science in Mechanical Engineering 
+#### London, UK | 2015
 •	Major: Applied Thermodynamics and Turbomachinery
 
 •	Awards: Distinction and Dean's List for Outstanding Academic Performance
 
 •	CONACYT Scholarship Recipient
 
-### ITESM | Bachelor of Science in Mechanical Engineering and Management | Mexico
+### ITESM | Bachelor of Science in Mechanical Engineering and Management
+#### Queretaro, Mexico | 2011
 
 •	Certificate in Aeronautics awarded by Tecnologico de Monterrey and Politecnico di Torino
 
 •	Exchange program at Politecnico di Torino in Italy focused on Aerospace Engineering courses
 
 ## SKILLS
+### Data Science
 •	Collaborative Software Development - Github
 
 •	Supervised Machine Learning Modeling: Neural Networks, SVMs, KNN, Decision Trees, Random Forests, Feature Engineering
@@ -99,12 +107,14 @@ Eager to leverage both my engineering background and emerging data science skill
 
 •	Data Visualization and Dashboards - Dash and Shiny
 
+### Engineering
 •	Advanced Gas Turbine Performance Engineering 
 
 •	Thermodynamic Modelling in NPSS 
 
 •	Engine Development Testing 
 
+### Management
 •	Project Management (PMI Training)
 
 •	Strategy Definition and Execution of Technical Deliverables 
