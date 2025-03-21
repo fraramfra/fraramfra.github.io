@@ -4,14 +4,14 @@
     "href": "projects.html",
     "title": "Data Science Projects",
     "section": "",
-    "text": "“Commuting Insights” is a dahsboard developed in Dash in collaboration with Eugene You (@jinxyou), Derek Rodgers (@derekrodgers) and Han Wang (@hanwang205), as part of UBC’s Master of Data Science program.\nThis project aimed to provide actionable insights to help shape Canada’s future transportation policies. The dashboard visualizes various aspects of commuting behavior across Canada, including transportation modes, average commute times, and regional dependencies on specific means of transport. The ultimate goal is to inform policies that can lead to better, more sustainable commuting solutions across the country.\nYou can visit the dashboard here"
+    "text": "“Commuting Insights” is a dahsboard developed in Dash in collaboration with Eugene You (@jinxyou), Derek Rodgers (@derekrodgers) and Han Wang (@hanwang205), as part of UBC’s Master of Data Science program.\nThis project aimed to provide actionable insights to help shape Canada’s future transportation policies. The dashboard visualizes various aspects of commuting behavior across Canada, including transportation modes, average commute times, and regional dependencies on specific means of transport. The ultimate goal is to inform policies that can lead to better, more sustainable commuting solutions across the country.\nYou can visit the live dashboard here"
   },
   {
     "objectID": "projects.html#dasboard-commuting-insights",
     "href": "projects.html#dasboard-commuting-insights",
     "title": "Data Science Projects",
     "section": "",
-    "text": "“Commuting Insights” is a dahsboard developed in Dash in collaboration with Eugene You (@jinxyou), Derek Rodgers (@derekrodgers) and Han Wang (@hanwang205), as part of UBC’s Master of Data Science program.\nThis project aimed to provide actionable insights to help shape Canada’s future transportation policies. The dashboard visualizes various aspects of commuting behavior across Canada, including transportation modes, average commute times, and regional dependencies on specific means of transport. The ultimate goal is to inform policies that can lead to better, more sustainable commuting solutions across the country.\nYou can visit the dashboard here"
+    "text": "“Commuting Insights” is a dahsboard developed in Dash in collaboration with Eugene You (@jinxyou), Derek Rodgers (@derekrodgers) and Han Wang (@hanwang205), as part of UBC’s Master of Data Science program.\nThis project aimed to provide actionable insights to help shape Canada’s future transportation policies. The dashboard visualizes various aspects of commuting behavior across Canada, including transportation modes, average commute times, and regional dependencies on specific means of transport. The ultimate goal is to inform policies that can lead to better, more sustainable commuting solutions across the country.\nYou can visit the live dashboard here"
   },
   {
     "objectID": "projects.html#python-package-py_atmosphere",
@@ -25,7 +25,7 @@
     "href": "projects.html#reproducibility-adult-income-predictor",
     "title": "Data Science Projects",
     "section": "Reproducibility: Adult Income Predictor",
-    "text": "Reproducibility: Adult Income Predictor\nThe Adult Income Predictor project, is a data analysis project developed in collaboration with Michael Suriawan (@mikem2m), Quanhua Huang (@QuanhuaHuang-ubc) and Tingting Chen (@Calista321), as part of UBC’s Master of Data Science program.\nThis analysis presents the application of a K-Nearest Neighbors (KNN) Classifier to predict an individual’s annual income based on selected categorical socioeconomic features. The dataset, sourced from the 1994 U.S. Census Bureau, contains features such as age, education, occupation, and marital status. The model achieved an accuracy of approximately 80%. This result emphasizes the importance of socioeconomic factors in determining income levels.\nThe report can be found here: Report HTML"
+    "text": "Reproducibility: Adult Income Predictor\nThe Adult Income Predictor project, is a data analysis project developed in collaboration with Michael Suriawan (@mikem2m), Quanhua Huang (@QuanhuaHuang-ubc) and Tingting Chen (@Calista321), as part of UBC’s Master of Data Science program.\nThis analysis presents the application of a K-Nearest Neighbors (KNN) Classifier to predict an individual’s annual income based on selected categorical socioeconomic features. The dataset, sourced from the 1994 U.S. Census Bureau, contains features such as age, education, occupation, and marital status. The model achieved an accuracy of approximately 80%. This result emphasizes the importance of socioeconomic factors in determining income levels.\nThe report can be found here: Adult Income Predictor"
   },
   {
     "objectID": "about.html",
@@ -60,6 +60,6 @@
     "href": "index.html",
     "title": "¡Hola!",
     "section": "",
-    "text": "My name is Francisco Ramírez, but everybody calls me Paco.\nI’m currently a Master of Data Science Student at The University of British Columbia in Vancouver, BC.\nI graduated as a Mechanical Engineer from ITESM in Mexico with a Masters from UCL in the UK. I have a background in Mechanical Engineering and over 10 years of experience in the aerospace industry working for GE Aerospace focusing on aircraft and gas turbine engine performance, most recently in leadership and management roles.\nI am looking forward to joining the Data Science community in Vancouver, BC!\nThank you for visiting my website!\nPlease, you can send me an email below, or at fraramfra@gmail.com or feel free to contact me through LinkedIn.\n\n Your email:    Your message:\n\n Send"
+    "text": "My name is Francisco Ramírez, but everybody calls me Paco.\nI’m currently a Master’s of Data Science student at The University of British Columbia in Vancouver, BC.\nI graduated as a Mechanical Engineer from ITESM in Mexico, which was followed by a Masters from UCL in the UK.\nI have a background in Mechanical Engineering and over 10 years of experience in the aerospace industry working for GE Aerospace focusing on aircraft and gas turbine engine performance, most recently in technical leadership and management roles.\nI am looking forward to joining the Data Science community in Vancouver, BC!\nThank you for visiting my website!\nYou can send me an email through the form below, or at fraramfra@gmail.com, or feel free to contact me through LinkedIn.\n\n Your email:    Your message:\n\n Send"
   }
 ]

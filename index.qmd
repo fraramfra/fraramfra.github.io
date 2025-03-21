@@ -4,15 +4,17 @@ title: "¡Hola!"
 
 My name is Francisco Ramírez, but everybody calls me Paco. 
 
-I'm currently a Master of Data Science Student at The University of British Columbia in Vancouver, BC. 
+I'm currently a Master's of Data Science student at The University of British Columbia in Vancouver, BC.
 
-I graduated as a Mechanical Engineer from ITESM in Mexico with a Masters from UCL in the UK. I have a background in Mechanical Engineering and over 10 years of experience in the aerospace industry working for GE Aerospace focusing on aircraft and gas turbine engine performance, most recently in leadership and management roles.
+I graduated as a Mechanical Engineer from ITESM in Mexico, which was followed by a Masters from UCL in the UK. 
+
+I have a background in Mechanical Engineering and over 10 years of experience in the aerospace industry working for GE Aerospace focusing on aircraft and gas turbine engine performance, most recently in technical leadership and management roles.
 
 I am looking forward to joining the Data Science community in Vancouver, BC!
 
 Thank you for visiting my website!
 
-Please, you can send me an email below, or at [fraramfra@gmail.com](mailto:fraramfra@gmail.com) or feel free to contact me through [LinkedIn](https://www.linkedin.com/in/fraramfra/).
+You can send me an email through the form below, or at [fraramfra@gmail.com](mailto:fraramfra@gmail.com), or feel free to contact me through [LinkedIn](https://www.linkedin.com/in/fraramfra/).
 
 <form
   action="https://formspree.io/f/meoaaelp"

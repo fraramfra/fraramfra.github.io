@@ -3,11 +3,11 @@ title: "Data Science Projects"
 ---
 ## [Dasboard: Commuting Insights](https://github.com/UBC-MDS/DSCI-532_2025_28_commuting-insights)
 
-"Commuting Insights" is a dahsboard developed in `Dash` in collaboration with Eugene You (@jinxyou), Derek Rodgers (@derekrodgers) and Han Wang (@hanwang205), as part of UBC's Master of Data Science program.
+"Commuting Insights" is a dahsboard developed in Dash in collaboration with Eugene You (@jinxyou), Derek Rodgers (@derekrodgers) and Han Wang (@hanwang205), as part of UBC's Master of Data Science program.
 
 This project aimed to provide actionable insights to help shape Canada’s future transportation policies. The dashboard visualizes various aspects of commuting behavior across Canada, including transportation modes, average commute times, and regional dependencies on specific means of transport. The ultimate goal is to inform policies that can lead to better, more sustainable commuting solutions across the country.
 
-You can visit the dashboard [here](https://dsci-532-2025-28-commuting-insights.onrender.com/)
+You can visit the live dashboard [here](https://dsci-532-2025-28-commuting-insights.onrender.com/)
 
 ![](img/commuting.gif)
 
@@ -28,4 +28,4 @@ The Adult Income Predictor project, is a data analysis project developed in coll
 
 This analysis presents the application of a K-Nearest Neighbors (KNN) Classifier to predict an individual's annual income based on selected categorical socioeconomic features. The dataset, sourced from the 1994 U.S. Census Bureau, contains features such as age, education, occupation, and marital status. The model achieved an accuracy of approximately 80%. This result emphasizes the importance of socioeconomic factors in determining income levels.
 
-The report can be found here: [Report HTML](img/adult_income.html)
+The report can be found here: [Adult Income Predictor](img/adult_income.html)
