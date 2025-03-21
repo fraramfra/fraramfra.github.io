@@ -29,3 +29,12 @@ The Adult Income Predictor project, is a data analysis project developed in coll
 This analysis presents the application of a K-Nearest Neighbors (KNN) Classifier to predict an individual's annual income based on selected categorical socioeconomic features. The dataset, sourced from the 1994 U.S. Census Bureau, contains features such as age, education, occupation, and marital status. The model achieved an accuracy of approximately 80%. This result emphasizes the importance of socioeconomic factors in determining income levels.
 
 The report can be found here: [Adult Income Predictor](img/adult_income.html)
+
+
+## [Blog Post: Data Science in Music Streaming](https://github.com/fraramfra/UBC_542_Week2_Blog)
+
+This blog post was developed as part of UBC's Master of Data Science program.
+
+This post discusses how the use of data and machine learning on platforms like Spotify, Apple Music, and YouTube Music have changed not just how we consume music, but how we discover it. This post is an introductory read on the application of recommendation systems customize the music listening experience for every user, helping them find new songs, albums, and artists based on our tastes.
+
+The post can be found here: [Data Science in Music Streaming](https://fraramfra.github.io/UBC_542_Week2_Blog/posts/542_DataScienceInMusicStreaming/)

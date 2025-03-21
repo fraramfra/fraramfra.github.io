@@ -28,6 +28,13 @@
     "text": "Reproducibility: Adult Income Predictor\nThe Adult Income Predictor project, is a data analysis project developed in collaboration with Michael Suriawan (@mikem2m), Quanhua Huang (@QuanhuaHuang-ubc) and Tingting Chen (@Calista321), as part of UBC’s Master of Data Science program.\nThis analysis presents the application of a K-Nearest Neighbors (KNN) Classifier to predict an individual’s annual income based on selected categorical socioeconomic features. The dataset, sourced from the 1994 U.S. Census Bureau, contains features such as age, education, occupation, and marital status. The model achieved an accuracy of approximately 80%. This result emphasizes the importance of socioeconomic factors in determining income levels.\nThe report can be found here: Adult Income Predictor"
   },
   {
+    "objectID": "projects.html#blog-post-data-science-in-music-streaming",
+    "href": "projects.html#blog-post-data-science-in-music-streaming",
+    "title": "Data Science Projects",
+    "section": "Blog Post: Data Science in Music Streaming",
+    "text": "Blog Post: Data Science in Music Streaming\nThis blog post was developed as part of UBC’s Master of Data Science program.\nThis post discusses how the use of data and machine learning on platforms like Spotify, Apple Music, and YouTube Music have changed not just how we consume music, but how we discover it. This post is an introductory read on the application of recommendation systems customize the music listening experience for every user, helping them find new songs, albums, and artists based on our tastes.\nThe post can be found here: Data Science in Music Streaming"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Professional Summary",
