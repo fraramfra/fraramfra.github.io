@@ -3,11 +3,11 @@ project:
   output-dir: docs
 
 website:
-  title: "fraramfra.github.io"
+  title: "Paco Ramirez, MDS, MSc"
   navbar:
     left:
       - href: index.qmd
-        text: Welcome
+        text: Hi there!
       - about.qmd
       - projects.qmd
     right:

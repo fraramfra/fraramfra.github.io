@@ -4,7 +4,28 @@
     "href": "projects.html",
     "title": "Data Science Projects",
     "section": "",
-    "text": "My Awesome GitHub Project\n\n\n\nAnurag’s GitHub stats"
+    "text": "“Commuting Insights” is a dahsboard developed in Dash in collaboration with Eugene You (@jinxyou), Derek Rodgers (@derekrodgers) and Han Wang (@hanwang205), as part of UBC’s Master of Data Science program.\nThis project aimed to provide actionable insights to help shape Canada’s future transportation policies. The dashboard visualizes various aspects of commuting behavior across Canada, including transportation modes, average commute times, and regional dependencies on specific means of transport. The ultimate goal is to inform policies that can lead to better, more sustainable commuting solutions across the country.\nYou can visit the dashboard here"
+  },
+  {
+    "objectID": "projects.html#dasboard-commuting-insights",
+    "href": "projects.html#dasboard-commuting-insights",
+    "title": "Data Science Projects",
+    "section": "",
+    "text": "“Commuting Insights” is a dahsboard developed in Dash in collaboration with Eugene You (@jinxyou), Derek Rodgers (@derekrodgers) and Han Wang (@hanwang205), as part of UBC’s Master of Data Science program.\nThis project aimed to provide actionable insights to help shape Canada’s future transportation policies. The dashboard visualizes various aspects of commuting behavior across Canada, including transportation modes, average commute times, and regional dependencies on specific means of transport. The ultimate goal is to inform policies that can lead to better, more sustainable commuting solutions across the country.\nYou can visit the dashboard here"
+  },
+  {
+    "objectID": "projects.html#python-package-py_atmosphere",
+    "href": "projects.html#python-package-py_atmosphere",
+    "title": "Data Science Projects",
+    "section": "Python Package: py_atmosphere",
+    "text": "Python Package: py_atmosphere\n“py_atmosphere” is a python package developed in collaboration with Zhengling Jiang (@ClaireJ2100) and Tianjiao Jiang (@tianjiao00), as part of UBC’s Master of Data Science program.\nThis package contains the simplified NASA’s GRC Earth Atmospheric model and calculates atmospheric air properties for an altitude of interest, and supports Mach number calculation for a moving object in space at the same altitude. In the context of aircraft design, it is useful to have a Standard Atmosphere model of the variation of properties throughout the atmosphere, as they have a direct impact in aircraft operation throughout the flight envelope of an aircraft.\nThe package’s documentation can be found in pypi.org"
+  },
+  {
+    "objectID": "projects.html#reproducibility-adult-income-predictor",
+    "href": "projects.html#reproducibility-adult-income-predictor",
+    "title": "Data Science Projects",
+    "section": "Reproducibility: Adult Income Predictor",
+    "text": "Reproducibility: Adult Income Predictor\nThe Adult Income Predictor project, is a data analysis project developed in collaboration with Michael Suriawan (@mikem2m), Quanhua Huang (@QuanhuaHuang-ubc) and Tingting Chen (@Calista321), as part of UBC’s Master of Data Science program.\nThis analysis presents the application of a K-Nearest Neighbors (KNN) Classifier to predict an individual’s annual income based on selected categorical socioeconomic features. The dataset, sourced from the 1994 U.S. Census Bureau, contains features such as age, education, occupation, and marital status. The model achieved an accuracy of approximately 80%. This result emphasizes the importance of socioeconomic factors in determining income levels.\nThe report can be found here: Report HTML"
   },
   {
     "objectID": "about.html",
@@ -37,8 +58,8 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Paco Ramírez - Home",
+    "title": "¡Hola!",
     "section": "",
-    "text": "¡Hola!\nMy name is Francisco Ramírez, but everyboday calls me Paco. I’m a Master of Data Science Student at The University of British Columbia in Vancouver, BC.\nI graduated as a Mechanical Engineer in Mexico, and I’ve had the chance to study and work in the UK, Italy and the USA. I have a background in Mechanical Engineering and over 10 years of experience in the aerospace industry working for GE Aerospace focusing on aircraft and gas turbine engine performance, most recently in leadership and management roles for technical teams.\nThank you for visiting this site!\nPlease, leave a message or feel free to contact me through LinkedIn.\nContact:\n\n Your email:    Your message:\n\n Send"
+    "text": "My name is Francisco Ramírez, but everybody calls me Paco.\nI’m currently a Master of Data Science Student at The University of British Columbia in Vancouver, BC.\nI graduated as a Mechanical Engineer from ITESM in Mexico with a Masters from UCL in the UK. I have a background in Mechanical Engineering and over 10 years of experience in the aerospace industry working for GE Aerospace focusing on aircraft and gas turbine engine performance, most recently in leadership and management roles.\nI am looking forward to joining the Data Science community in Vancouver, BC!\nThank you for visiting my website!\nPlease, you can send me an email below, or at fraramfra@gmail.com or feel free to contact me through LinkedIn.\n\n Your email:    Your message:\n\n Send"
   }
 ]
