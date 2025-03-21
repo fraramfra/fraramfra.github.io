@@ -1,9 +1,6 @@
 ---
 title: "Professional Summary"
 ---
-
-## PROFESSIONAL SUMMARY
-
 Born and raised in Mexico, with degrees from Mexico, Italy, United Kingdom, and Canada in diverse fields. Passionate about playing drums, listening to live music, outdoor activities and travelling.
 
 As a **Mechanical Engineer** with over **10 years of experience** in the aerospace industry, I have specialized in the development of advanced aircraft engine and gas turbine technologies, with a focus on **performance optimization and thermodynamic modeling**. Throughout my career, I have been committed to ensuring the highest standards of **efficiency and reliability** in complex engineering systems.

@@ -9,12 +9,30 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/fraramfra/
+        aria-label: LinkedIn
+      - icon: github
+        href: https://github.com/fraramfra
+        aria-label: GitHub
+      - icon: spotify
+        href: https://open.spotify.com/user/1277007544?si=42cb208723c94bd3
+        aria-label: Spotify
+  favicon: /img/logo.png
+  margin-header: |
+    ![](/img/logo.png)
+
 
 format:
   html:
     theme: lux
     css: styles.css
     toc: true
+    linkcolor: green
+    backgroundcolor: lightgrey
+
+
 
 
 
