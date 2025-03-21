@@ -163,14 +163,36 @@ ul.task-list li input[type="checkbox"] {
 <p>I am looking forward to joining the Data Science community in Vancouver, BC!</p>
 <p>You can send me an email through the form below, or at <a href="mailto:fraramfra@gmail.com">fraramfra@gmail.com</a>, or feel free to contact me through <a href="https://www.linkedin.com/in/fraramfra/">LinkedIn</a>.</p>
 <form action="https://formspree.io/f/meoaaelp" method="POST">
-<label> Your email: <input type="email" name="email"> <label> <label> Your message:
-<textarea name="message"></textarea>
-</label> <button type="submit">Send</button>
+<table>
+<tbody><tr>
+<td>
+<label for="email">Your email:</label>
+</td>
+<td>
+<input type="email" name="email" id="email" style="width: 400px; height: 40px;">
+</td>
+</tr>
+<tr>
+<td>
+<label for="message">Your message:</label>
+</td>
+<td>
+<textarea name="message" id="message" style="width: 400px; height: 100px;"></textarea>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<button type="submit">
+Send
+</button>
+</td>
+</tr>
+</tbody></table>
+</form>
 
 
 
-
-</label></label></form></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

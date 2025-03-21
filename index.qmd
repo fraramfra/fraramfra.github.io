@@ -14,19 +14,18 @@ I am looking forward to joining the Data Science community in Vancouver, BC!
 
 You can send me an email through the form below, or at [fraramfra@gmail.com](mailto:fraramfra@gmail.com), or feel free to contact me through [LinkedIn](https://www.linkedin.com/in/fraramfra/).
 
-<form
-  action="https://formspree.io/f/meoaaelp"
-  method="POST"
->
-  <label>
-    Your email:
-    <input type="email" name="email">
-  <label>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
-  <button type="submit">Send</button>
+<form action="https://formspree.io/f/meoaaelp" method="POST">
+  <table>
+    <tr>
+      <td><label for="email">Your email:</label></td>
+      <td><input type="email" name="email" id="email" style="width: 400px; height: 40px;"></td>
+    </tr>
+    <tr>
+      <td><label for="message">Your message:</label></td>
+      <td><textarea name="message" id="message" style="width: 400px; height: 100px;"></textarea></td>
+    </tr>
+    <tr>
+      <td colspan="2"><button type="submit">Send</button></td>
+    </tr>
+  </table>
 </form>
-
-
