@@ -35,6 +35,6 @@ The report can be found here: [Adult Income Predictor](img/adult_income.html)
 
 This blog post was developed as part of UBC's Master of Data Science program.
 
-This post discusses how the use of data and machine learning on platforms like Spotify, Apple Music, and YouTube Music have changed not just how we consume music, but how we discover it. This post is an introductory read on the application of recommendation systems customize the music listening experience for every user, helping them find new songs, albums, and artists based on our tastes.
+This post discusses how the use of data and machine learning on platforms like Spotify, Apple Music, and YouTube Music have changed not just how we consume music, but how we discover it. This post is an introductory read on how recommendation systems customize the music listening experience for every user, helping them find new songs, albums, and artists based on their tastes.
 
 The post can be found here: [Data Science in Music Streaming](https://fraramfra.github.io/UBC_542_Week2_Blog/posts/542_DataScienceInMusicStreaming/)
