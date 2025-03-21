@@ -23,7 +23,7 @@ Eager to leverage both my engineering background and emerging data science skill
 
 •	Devised and implemented strategic technical plans for projects, effectively aligning customer needs and business goals in terms of budget, schedule, and CTQs.
 
-•	Cultivated a high-performance team of 10, overseeing talent acquisition, career development, and coaching initiatives.
+•	Cultivated a high-performance team of 9 engineers, overseeing talent acquisition, career development, and coaching initiatives.
 
 •	Coordinated a diverse engineering team across five countries (Mexico, United States, Poland, Turkey, India), fostering global collaboration and driving successful prototype testing project outcomes.
 
@@ -34,7 +34,7 @@ Eager to leverage both my engineering background and emerging data science skill
 
 •	Created a proficient team capable of supporting the LM9000 platform in Performance, Transient Analysis, and Operability.
 
-•	Effectively transferred roles of six engineers from the USA to Mexico, while building and developing a dedicated support team in Mexico for the LM9000 platform.
+•	Effectively transferred roles of five engineers from the USA to Mexico, while building and developing a dedicated support team in Mexico for the LM9000 platform.
 
 •	Conducted detailed technical audits and reviews prior to product field entry, ensuring optimal performance and adherence to quality standards.
 
@@ -56,23 +56,11 @@ Eager to leverage both my engineering background and emerging data science skill
 
 •	Conducted thorough performance diagnostics of engines based on thermodynamic and statistical analysis.
 
-## ACCOMPLISHMENTS
-
-•	Spearheaded the performance development of the LM9000 product line for five years.
-
-•	Successfully managed international engineering teams across five countries.
-
-•	Developed and led a proficient team of 10 people capable of supporting the LM9000 platform in Performance, Transient Analysis, and Operability, elevating overall product quality from design to production.
-
-•	Distinguished with the GE Aviation Engineering Recognition Award for the development of statistical tools that substantially improved field support of aircraft engines.
-
-•	Successfully transitioned roles of six engineers from the USA to Mexico while building and developing a dedicated support team in Mexico for the LM9000 platform.
-
 ## EDUCATION
 
 ### University of British Columbia | Master of Data Science
 #### Vancouver, BC | Completion in June ‘25
-•	Relevant Courses in Supervised Learning, Regression, Causal Inference, Spatial and Temporal Modelling, Databases, Data Visualization.
+•	Relevant Courses in Supervised Learning, Regression, Statistical Inference, Spatial and Temporal Modelling, Databases, Data Visualization, Software Development, Web and Cloud Computing.
 
 ### University College London | Master of Science in Mechanical Engineering 
 #### London, UK | 2015
@@ -95,7 +83,7 @@ Eager to leverage both my engineering background and emerging data science skill
 
 •	Supervised Machine Learning Modeling: Neural Networks, SVMs, KNN, Decision Trees, Random Forests, Feature Engineering
 
-•	Unsupervised Machine Learning Modeling: Clustering, Recommendation Systems, Topic Modeling 
+•	Unsupervised Machine Learning Modeling: Clustering, Recommendation Systems, Topic Modeling
 
 •	Frequentist and Bayesian regression analysis for statistical inference
 
