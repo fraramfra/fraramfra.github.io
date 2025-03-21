@@ -16,7 +16,7 @@ Eager to leverage both my engineering background and emerging data science skill
 ### SENIOR PERFORMANCE ENGINEERING MANAGER
 #### 09/2022 to 08/2024
 #### **GE Aerospace** - Mexico
-•	Spearheaded project administration and resource allocation for LM9000, LMS100, and LM6000 gas turbine products, resulting in optimized Performance, Transient Analysis, and Operability.
+•	Led performance development, administration, and resource allocation for the LM9000 gas turbine product, while supporting all Marine and Industrial aeroderivative applications, resulting in optimized performance, transient analysis, and operability.
 
 •	Devised and implemented strategic technical plans for projects, effectively aligning customer needs and business goals in terms of budget, schedule, and CTQs.
 
@@ -38,7 +38,7 @@ Eager to leverage both my engineering background and emerging data science skill
 ### LEAD PERFORMANCE ENGINEER
 #### 10/2015 to 03/2020 
 #### **GE Aviation** - Mexico
-•	Provided pivotal support and analysis to a four-month onsite prototype test for the LM9000 in Massa, Italy.
+•	Provided pivotal support and analysis to a three-month onsite prototype test for the LM9000 in Massa, Italy.
 
 •	Developed thermodynamic models in NPSS (C++ based) for the simulation of the new product, LM9000, enabling accurate performance prediction and aiding in product development.
 
@@ -57,7 +57,7 @@ Eager to leverage both my engineering background and emerging data science skill
 
 ### University of British Columbia | Master of Data Science
 #### Vancouver, BC | Completion in June ‘25
-•	Relevant Courses in Supervised Learning, Regression, Statistical Inference, Spatial and Temporal Modelling, Databases, Data Visualization, Software Development, Web and Cloud Computing.
+•	Relevant Courses in Supervised and Unsupervised Learning, Regression Modeling, Statistical Inference, Spatial and Temporal Modeling, Databases, Data Visualization, Software Development, Web and Cloud Computing.
 
 ### University College London | Master of Science in Mechanical Engineering 
 #### London, UK | 2015
