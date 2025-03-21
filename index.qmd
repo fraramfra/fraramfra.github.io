@@ -1,7 +1,9 @@
 ---
-title: "fraramfra.github.io"
+title: "Paco's Snapshot"
 ---
 
-This is a Quarto website.
+This is Paco's website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+[LinkedIn](https://www.linkedin.com/in/fraramfra/)
+[GitHub](https://github.com/fraramfra)
+[Spotify](https://open.spotify.com/user/1277007544?si=42cb208723c94bd3)
