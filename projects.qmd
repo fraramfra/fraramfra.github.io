@@ -1,4 +1,6 @@
-# fraramfra.github.io
-F Ramirez, MDS, MSc
+---
+title: "Data Science Projects"
+---
+[My Awesome GitHub Project](https://github.com/UBC-MDS/DSCI-532_2025_28_commuting-insights)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fraramfra)](https://github.com/anuraghazra/github-readme-stats)

@@ -4,9 +4,13 @@ title: "Paco Ramírez - Home"
 
 ¡Hola!
 
-I'm a Master of Data Science Student at The University of British Columbia in Vancouver, BC. 
+My name is Francisco Ramírez, but everyboday calls me Paco. I'm a Master of Data Science Student at The University of British Columbia in Vancouver, BC. 
 
-I have a background in Mechanical Engineering and over 10 years of experience in the aerospace industry working for GE Aerospace focusing on aircraft and gas turbine engine performance, most recently in leadership and management roles for technical teams.
+I graduated as a Mechanical Engineer in Mexico, and I've had the chance to study and work in the UK, Italy and the USA. I have a background in Mechanical Engineering and over 10 years of experience in the aerospace industry working for GE Aerospace focusing on aircraft and gas turbine engine performance, most recently in leadership and management roles for technical teams.
+
+Thank you for visiting this site!
+
+Please, leave a message or feel free to contact me through [LinkedIn](https://www.linkedin.com/in/fraramfra/).
 
 Contact:
 <form

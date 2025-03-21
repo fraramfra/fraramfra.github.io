@@ -7,8 +7,9 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: Welcome
       - about.qmd
+      - projects.qmd
     right:
       - icon: linkedin
         href: https://www.linkedin.com/in/fraramfra/

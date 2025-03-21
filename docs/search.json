@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Paco Ramírez - Home",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Data Science Projects",
     "section": "",
-    "text": "¡Hola!\nI’m a Master of Data Science Student at The University of British Columbia in Vancouver, BC.\nI have a background in Mechanical Engineering and over 10 years of experience in the aerospace industry working for GE Aerospace focusing on aircraft and gas turbine engine performance, most recently in leadership and management roles for technical teams.\nContact:\n\n Your email:    Your message:\n\n Send"
+    "text": "My Awesome GitHub Project\n\n\n\nAnurag’s GitHub stats"
   },
   {
     "objectID": "about.html",
@@ -32,6 +32,13 @@
     "href": "about.html#skills",
     "title": "Professional Summary",
     "section": "SKILLS",
-    "text": "SKILLS\n\nData Science\n• Collaborative Software Development - Github\n• Supervised Machine Learning Modeling: Neural Networks, SVMs, KNN, Decision Trees, Random Forests, Feature Engineering\n• Unsupervised Machine Learning Modeling: Clustering, Recommendation Systems, Topic Modeling\n• Frequentist and Bayesian regression analysis for statistical inference\n• Python: Scikit Learn, NumPy, Pandas, Altair, Pytorch\n• R: Data wrangling, ggplot, quantitative analysis\n• Databases: Relational databases, MySQL, Mongo DB\n• Data Visualization and Dashboards - Dash and Shiny\n\n\nEngineering\n• Advanced Gas Turbine Performance Engineering\n• Thermodynamic Modelling in NPSS\n• Engine Development Testing\n\n\nManagement\n• Project Management (PMI Training)\n• Strategy Definition and Execution of Technical Deliverables\n• Cross-Cultural Team Leadership and Development\n• Risk Management and Resource Allocation\n• Advanced Customer Relationship Management and Support"
+    "text": "SKILLS\n\nData Science\n• Collaborative Software Development - Github\n• Supervised Machine Learning Modeling: Neural Networks, SVMs, KNN, Decision Trees, Random Forests, Feature Engineering\n• Unsupervised Machine Learning Modeling: Clustering, Recommendation Systems, Topic Modeling\n• Frequentist and Bayesian regression analysis for statistical inference\n• Python: Scikit Learn, NumPy, Pandas, Altair, Pytorch\n• R: Data wrangling, ggplot, quantitative analysis\n• Databases: Relational databases, MySQL, Mongo DB\n• Data Visualization and Dashboards - Dash and Shiny\n\n\nEngineering\n• Advanced Gas Turbine Performance Engineering\n• Thermodynamic Modelling in NPSS\n• Engine Development Testing\n• Statistical Analysis with Minitab\n\n\nManagement\n• Project Management (PMI Training)\n• Strategy Definition and Execution of Technical Deliverables\n• Cross-Cultural Team Leadership and Development\n• Risk Management and Resource Allocation\n• Advanced Customer Relationship Management and Support"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Paco Ramírez - Home",
+    "section": "",
+    "text": "¡Hola!\nMy name is Francisco Ramírez, but everyboday calls me Paco. I’m a Master of Data Science Student at The University of British Columbia in Vancouver, BC.\nI graduated as a Mechanical Engineer in Mexico, and I’ve had the chance to study and work in the UK, Italy and the USA. I have a background in Mechanical Engineering and over 10 years of experience in the aerospace industry working for GE Aerospace focusing on aircraft and gas turbine engine performance, most recently in leadership and management roles for technical teams.\nThank you for visiting this site!\nPlease, leave a message or feel free to contact me through LinkedIn.\nContact:\n\n Your email:    Your message:\n\n Send"
   }
 ]
