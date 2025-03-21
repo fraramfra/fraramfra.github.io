@@ -1,5 +1,5 @@
 ---
-title: "Resume"
+title: "Professional Summary"
 ---
 
 ## PROFESSIONAL SUMMARY
@@ -18,7 +18,7 @@ Eager to leverage both my engineering background and emerging data science skill
 
 ### SENIOR PERFORMANCE ENGINEERING MANAGER
 #### 09/2022 to 08/2024
-#### GE Aerospace - Mexico
+#### **GE Aerospace** - Mexico
 •	Spearheaded project administration and resource allocation for LM9000, LMS100, and LM6000 gas turbine products, resulting in optimized Performance, Transient Analysis, and Operability.
 
 •	Devised and implemented strategic technical plans for projects, effectively aligning customer needs and business goals in terms of budget, schedule, and CTQs.
@@ -29,7 +29,7 @@ Eager to leverage both my engineering background and emerging data science skill
 
 ### PERFORMANCE PROGRAM LEADER
 #### 03/2020 to 09/2022 
-#### GE Aviation - Mexico
+#### **GE Aviation** - Mexico
 •	Successfully facilitated the market introduction of the LM9000 product with high-profile clients such as Petronas, Novatek, and Commonwealth.
 
 •	Created a proficient team capable of supporting the LM9000 platform in Performance, Transient Analysis, and Operability.
@@ -40,16 +40,16 @@ Eager to leverage both my engineering background and emerging data science skill
 
 ### LEAD PERFORMANCE ENGINEER
 #### 10/2015 to 03/2020 
-#### GE Aviation - Mexico
+#### **GE Aviation** - Mexico
 •	Provided pivotal support and analysis to a four-month onsite prototype test for the LM9000 in Massa, Italy.
 
 •	Developed thermodynamic models in NPSS (C++ based) for the simulation of the new product, LM9000, enabling accurate performance prediction and aiding in product development.
 
 •	Conducted comprehensive customer interactions and data-driven performance diagnostics, improving problem-solving capacity, and fostering positive customer relationships.
- 
+
 ### PERFORMANCE ENGINEER 
 #### 11/2011 to 01/2014 
-#### GE Aviation - Mexico
+#### **GE Aviation** - Mexico
 •	Honored with the internal GE Aviation Engineering Recognition Award (ERD) for the development of statistical tools that significantly improved field support.
 
 •	Provided crucial support to test cells in over five countries for the CFM56 and GE90 engine lines.
