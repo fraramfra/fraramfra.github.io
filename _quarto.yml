@@ -23,8 +23,8 @@ website:
         href: https://open.spotify.com/user/1277007544?si=42cb208723c94bd3
         aria-label: Spotify
   favicon: /img/logo.png
-  margin-header: |
-    ![](/img/logo.png)
+#  margin-header: |
+#    ![](/img/logo.png)
 
 
 format:
