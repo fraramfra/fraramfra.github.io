@@ -40,7 +40,7 @@ In addition to my technical expertise, I bring significant **people and project 
 #### **GE Aerospace**
 ![](img/geaerospace.png)
 
-•	Successfully facilitated the market introduction of the LM9000 product with high-profile clients such as Petronas, Novatek, and Commonwealth.
+•	Successfully supported the market introduction of the LM9000 product with high-profile clients such as Petronas, Novatek, and Commonwealth in collaboration with Baker Hughes.
 
 •	Created a proficient team capable of supporting the LM9000 platform in Performance, Transient Analysis, and Operability.
 
@@ -64,7 +64,7 @@ In addition to my technical expertise, I bring significant **people and project 
 #### **GE Aviation**
 ![](img/geaviation.svg)
 
-•	Honored with the internal GE Aviation Engineering Recognition Award (ERD) for the development of statistical tools that significantly improved field support.
+•	Honored with the internal GE Aviation Engineering Recognition Award (ERD) for the development of statistical tools that significantly improved overhaul shops and field support.
 
 •	Provided crucial support to test cells in over five countries for the CFM56 and GE90 engine lines.
 
@@ -95,30 +95,33 @@ In addition to my technical expertise, I bring significant **people and project 
 •	Certificate in Aeronautics awarded by Tecnologico de Monterrey and Politecnico di Torino
 
 ![](img/polito.png)
+
 •	Exchange program at Politecnico di Torino in Italy focused on Aerospace Engineering courses
 
 ## SKILLS
 ### Data Science
 ##### Programming and Tools
-•	Python (Pandas, NumPy, Pytorch), R, SQL, Git, Bash, Docker, GitHub Workflows
+•	Python (Pandas, NumPy, Pytorch), R (tidyverse), SQL, Git, Bash, Docker, GitHub Workflows
 
 ##### Data Engineering
-•	Relational databases, SQL, MongoDB, Web & Cloud Computing
+•	Relational databases, SQL (PostgreSQL), MongoDB, Web & Cloud Computing
 
 ##### Machine Learning
 •	Supervised Machine Learning Modeling: Neural Networks, SVMs, KNN, Decision Trees, Random Forests, Feature Engineering
 
 •	Unsupervised Machine Learning Modeling: Clustering, Recommendation Systems, Topic Modeling
 
+•	Temporal and Spatial Modeling
+
 ##### Probability and Statistics
 •	Descriptive and Inferential Statistics, Hypothesis Testing
 
-•	Frequentist and Bayesian regression nalysis
+•	Frequentist and Bayesian regression analysis
 
 •	Causal Inference - A/B Testing
 
 ##### Visualization
-•	Matplotlib, Altair, ggplot2
+•	Altair, ggplot2, Matplotlib, Plotly
 
 •	Dashboards - Dash and Shiny
 
