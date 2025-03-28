@@ -99,39 +99,48 @@ In addition to my technical expertise, I bring significant **people and project 
 
 ## SKILLS
 ### Data Science
-•	Collaborative Software Development - Github
+#### Programming and Tools
+•	Python (Pandas, NumPy, Pytorch), R, SQL, Git, Bash, Docker, GitHub Workflows
 
+#### Data Engineering
+•	Relational databases, SQL, MongoDB, Web & Cloud Computing
+
+#### Machine Learning
 •	Supervised Machine Learning Modeling: Neural Networks, SVMs, KNN, Decision Trees, Random Forests, Feature Engineering
 
 •	Unsupervised Machine Learning Modeling: Clustering, Recommendation Systems, Topic Modeling
 
-•	Frequentist and Bayesian regression analysis for statistical inference
+#### Probability and Statistics
+•	Descriptive and Inferential Statistics, Hypothesis Testing
 
-•	Python: Scikit Learn, NumPy, Pandas, Altair, Pytorch
+•	Frequentist and Bayesian regression nalysis
 
-•	R: Data wrangling, ggplot, quantitative analysis
+•	Causal Inference - A/B Testing
 
-•	Databases: Relational databases, MySQL, MongoDB
+#### Visualization
+•	Matplotlib, Altair, ggplot2
 
-•	Data Visualization and Dashboards - Dash and Shiny
+•	Dashboards - Dash and Shiny
 
 ### Engineering
 •	Advanced Gas Turbine Performance Engineering 
 
-•	Thermodynamic Modelling in NPSS 
+•	Thermodynamic Modelling in NPSS (C++ based) 
 
-•	Engine Development Testing 
+•	Engine Development Planning, Modeling, Testing, Analysis 
 
 •	Statistical Analysis with Minitab
+
+•	Advanced Thermodynamics & Fluid Mechanics
 
 ### Management
 •	Project Management (PMI Training)
 
 •	Strategy Definition and Execution of Technical Deliverables 
 
-•	Cross-Cultural Team Leadership and Development
+•	International, Cross-Cultural Team Leadership and Development
 
 •	Risk Management and Resource Allocation
 
-•	Advanced Customer Relationship Management and Support
+•	Customer Relationship Management and Support
 
