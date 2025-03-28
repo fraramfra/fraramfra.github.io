@@ -99,25 +99,25 @@ In addition to my technical expertise, I bring significant **people and project 
 
 ## SKILLS
 ### Data Science
-#### Programming and Tools
+##### Programming and Tools
 •	Python (Pandas, NumPy, Pytorch), R, SQL, Git, Bash, Docker, GitHub Workflows
 
-#### Data Engineering
+##### Data Engineering
 •	Relational databases, SQL, MongoDB, Web & Cloud Computing
 
-#### Machine Learning
+##### Machine Learning
 •	Supervised Machine Learning Modeling: Neural Networks, SVMs, KNN, Decision Trees, Random Forests, Feature Engineering
 
 •	Unsupervised Machine Learning Modeling: Clustering, Recommendation Systems, Topic Modeling
 
-#### Probability and Statistics
+##### Probability and Statistics
 •	Descriptive and Inferential Statistics, Hypothesis Testing
 
 •	Frequentist and Bayesian regression nalysis
 
 •	Causal Inference - A/B Testing
 
-#### Visualization
+##### Visualization
 •	Matplotlib, Altair, ggplot2
 
 •	Dashboards - Dash and Shiny
