@@ -1,1 +1,46 @@
 /* css styles */
+
+.center-content {
+    text-align: justify;
+    max-width: 100%; 
+    margin: 0 auto;  
+}
+
+.center-content img {
+    display: block;             
+    max-width: 20%;             
+    margin: 0 auto;             
+    margin-bottom: 10px;        
+}
+
+img {
+    max-width: 300px;   
+    width: 20%;        
+    height: auto;      
+    margin: 0 auto;    
+    display: block;    
+}
+
+.center-content img.circular {
+    width: 150px;        
+    height: 150px;        
+    border-radius: 50%;   
+    object-fit: cover;   
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);  
+    gap: 1.5rem;
+    margin-top: 2rem;
+    padding: 1rem;
+}
+
+.grid-item {
+    background: #FFFFFF;
+    padding: 1.8rem;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    text-align: center;
+}

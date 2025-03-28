@@ -17,6 +17,8 @@ website:
       - icon: github
         href: https://github.com/fraramfra
         aria-label: GitHub
+      - icon: envelope
+        href: mailto:fraramfra@gmail.com
       - icon: spotify
         href: https://open.spotify.com/user/1277007544?si=42cb208723c94bd3
         aria-label: Spotify
@@ -30,6 +32,7 @@ format:
     theme: lux
     css: styles.css
     toc: true
+    page-layout: full
     linkcolor: green
     backgroundcolor: white
 
