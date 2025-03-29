@@ -24,7 +24,7 @@ title: "Data Science Projects"
   <p>
 <strong>Keys</strong>: Shiny, R, ggplot2, Posit Connect Cloud
 
-<strong>Summary</strong>: The dashboard visualizes various aspects of music, including genres, characteristics (danceability, energy, valence, etc.), explicit content, and popularity levels of a wide variety of albums available on Spotify. This app provides insights to help music labels and emerging artists understand which musical characteristics make albums popular.
+<strong>Summary</strong>: This dashboard was developed as part of UBC's Master of Data Science program. The dashboard visualizes various aspects of music, including genres, characteristics (danceability, energy, valence, etc.), explicit content, and popularity levels of a wide variety of albums available on Spotify. This app provides insights to help music labels and emerging artists understand which musical characteristics make albums popular.
 </p>
   <a href="https://0195e098-b360-07c6-5613-ec87a6dcdfe6.share.connect.posit.cloud/" class="btn btn-outline-dark">Dashboard</a>
   <a href="https://github.com/fraramfra/SpotifySongPopularity" class="btn btn-outline-dark">Github</a>
