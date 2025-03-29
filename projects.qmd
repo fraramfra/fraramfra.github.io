@@ -20,9 +20,9 @@ title: "Data Science Projects"
 
 <div class="grid-item">
   <img src="img/spin.png" width="50px" height="50px">
-  <h3>Commuting Insights</h3>
+  <h3>Spotify Spin Stats</h3>
   <p>
-<strong>Keys</strong>: Shiny, R, Posit Connect Cloud
+<strong>Keys</strong>: Shiny, R, ggplot2, Posit Connect Cloud
 
 <strong>Summary</strong>: The dashboard visualizes various aspects of music, including genres, characteristics (danceability, energy, valence, etc.), explicit content, and popularity levels of a wide variety of albums available on Spotify. This app provides insights to help music labels and emerging artists understand which musical characteristics make albums popular.
 </p>
