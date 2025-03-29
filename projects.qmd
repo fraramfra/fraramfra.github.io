@@ -12,7 +12,7 @@ title: "Data Science Projects"
 
 <strong>Keys</strong>: Dash, Altair, Render.com, Python, Parquet
 
-<strong>Summary</strong>: The dashboard visualizes various aspects of commuting behavior across Canada, including transportation modes, average commute times, and regional dependencies on specific means of transport. The goal being to inform policies that can lead to better, more sustainable commuting solutions across the country.
+<strong>Summary</strong>: The dashboard visualizes commuting behavior across Canada, including transportation modes, average commute times, and regional dependencies on specific means of transport. The goal being to inform policies that can lead to better, more sustainable commuting solutions across the country.
 </p>
   <a href="https://dsci-532-2025-28-commuting-insights.onrender.com/" class="btn btn-outline-dark">Dashboard</a>
   <a href="https://github.com/UBC-MDS/DSCI-532_2025_28_commuting-insights" class="btn btn-outline-dark">Github</a>
@@ -26,7 +26,7 @@ title: "Data Science Projects"
 
 <strong>Keys</strong>: poetry, cookiecutter, Python, pandas, pytest, Github Workflows, Continuous Development and Integration
 
-<strong>Summary</strong>: This package contains the simplified [NASA's GRC Earth Atmospheric model](https://www.grc.nasa.gov/www/k-12/airplane/atmos.html) and calculates atmospheric air properties for an altitude of interest, and supports Mach number calculation for a moving object in space at the same altitude. In the context of aerospace engineering, a Standard Atmosphere model allows to measure air properties impact on aircraft operation.
+<strong>Summary</strong>: This package contains the simplified [NASA's GRC Earth Atmospheric model](https://www.grc.nasa.gov/www/k-12/airplane/atmos.html) and calculates atmospheric air properties for an altitude of interest, and supports Mach number calculation for a moving object in space at the same altitude. In the context of aerospace engineering, a Standard Atmosphere model allows to calculate air properties to evaluate impact to aircraft operation.
 </p>
   <a href="https://pypi.org/project/py-atmosphere-mach/" class="btn btn-outline-dark">PyPi Package</a>
   <a href="https://github.com/UBC-MDS/DSCI-532_2025_28_commuting-insights" class="btn btn-outline-dark">Github</a>
@@ -40,7 +40,7 @@ title: "Data Science Projects"
 
 <strong>Keys</strong>: Make, Docker, Python, pandas, pytest, pandera, KNN Classifier
 
-<strong>Summary</strong>: Application of a K-Nearest Neighbors (KNN) Classifier to predict an individual's annual income based on selected categorical socioeconomic features Using the [Adult Dataset](https://archive.ics.uci.edu/dataset/2/adult). The model achieved an accuracy of approximately 80%. This result emphasizes the importance of socioeconomic factors in determining income levels.
+<strong>Summary</strong>: Application of a K-Nearest Neighbors (KNN) Classifier to predict an individual's annual income based on selected categorical demographic features using the [Adult Dataset](https://archive.ics.uci.edu/dataset/2/adult). The model achieved an accuracy of approximately 80%. This result emphasizes the importance of socioeconomic factors in determining income levels.
 </p>
   <a href="img/adult_income.html" class="btn btn-outline-dark">Analysis</a>
   <a href="https://github.com/UBC-MDS/DSCI522-2425-group24_adult-income-predictor" class="btn btn-outline-dark">Github</a>
