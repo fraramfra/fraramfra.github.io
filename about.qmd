@@ -6,7 +6,7 @@ title: "Professional Summary"
 
 Born and raised in Mexico, with degrees from Mexico, Italy, United Kingdom, and Canada in diverse fields. Passionate about playing drums, listening to live music, outdoor activities and travelling.
 
-I hold an **MSc in Mechanical Engineering from University College London**, graduating with honors, and I am currently pursuing a **Master's in Data Science at the University of British Columbia in Vancouver, BC**. Through my studies, I am developing expertise in **machine learning, regression analysis, and advanced statistics**.
+I hold an **MSc in Mechanical Engineering from University College London**, graduating with honors, and a **Master's in Data Science at the University of British Columbia in Vancouver, BC**. Through my studies, I have developed expertise in **machine learning, regression analysis, and advanced statistics**.
 
 I am eager to leverage both my engineering background and emerging data science skills, and to utilize **data-driven approaches to solve complex challenges** in diverse fields, from engineering to sports, gaming, entertainment, business and beyond. I’m excited about the opportunity to apply my experience in engineering leadership and my new capabilities to drive innovation, growth and efficiency.
 
@@ -73,7 +73,7 @@ In addition to my technical expertise, I bring significant **people and project 
 ## EDUCATION
 
 ### University of British Columbia | Master of Data Science
-#### Vancouver, BC | Completion in June ‘25
+#### Vancouver, BC | 2025
 ![](img/ubc.jpeg)
 
 •	Relevant Courses in Supervised and Unsupervised Learning, Regression Modeling, Statistical Inference, Spatial and Temporal Modeling, Databases, Data Visualization, Software Development, Web and Cloud Computing.

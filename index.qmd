@@ -11,9 +11,7 @@ image : "img/profile.jpeg"
 
 My name is Francisco Ramírez, but everybody calls me Paco.
 
-I'm currently a Master's in Data Science student at The University of British Columbia in Vancouver, BC.
-
-I graduated as a Mechanical Engineer from ITESM in Mexico, which was followed by a Masters from UCL in the UK. 
+I graduated as a Mechanical Engineer from ITESM in Mexico, which was followed by a Masters from UCL in the UK. Recently, I graduated from a Master's in Data Science at The University of British Columbia in Vancouver, BC. 
 
 I have a background in Mechanical Engineering and over 12 years of experience in the aerospace industry focusing on aircraft and gas turbine engine performance, most recently in technical leadership and management roles.
 
